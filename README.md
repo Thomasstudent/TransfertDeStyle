@@ -7,3 +7,6 @@
 
 # Le code :
 :computer: Le notebook Colab réalisé est trop volumineux, pour le consulter rendez-vous [ici](https://colab.research.google.com/drive/1NosBqygUw3pTQNFLX_qTpUg1Lb1erdnJ?usp=sharing).
+
+## Expérimentations :
+:open_file_folder: Les fichiers *Classique*, *No_Cycle*, *No_Identity*, *Small_Buffer_Size*, "Ukiyoe" et "Vangogh* contiennent les données de l'entraînement de plusieurs réseaux CycleGAN selon l'expérimentation. Dans ces dossiers, on trouve les images générées pendant l'apprentissage à partir des ensembles d'entraînement et de validation, les valeurs de la fonction de coût à chaque epoch et les poids des réseaux.
