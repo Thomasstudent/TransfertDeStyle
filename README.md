@@ -6,7 +6,7 @@
 :blue_book: On manipule également deux images disponibles sur ce GitHub : https://github.com/leongatys/PytorchNeuralStyleTransfer/tree/master/Images.
 
 # Le code :
-:computer: Le notebook Colab réalisé est trop volumineux, pour le consulter rendez-vous [ici](https://colab.research.google.com/drive/1NosBqygUw3pTQNFLX_qTpUg1Lb1erdnJ?usp=sharing).
+:computer: Le notebook Colab réalisé est trop volumineux pour être importé, pour le consulter rendez-vous [ici](https://colab.research.google.com/drive/1NosBqygUw3pTQNFLX_qTpUg1Lb1erdnJ?usp=sharing).
 
 ## Expérimentations :
-:open_file_folder: Les fichiers *Classique*, *No_Cycle*, *No_Identity*, *Small_Buffer_Size*, *Ukiyoe* et *Vangogh* contiennent les données de l'entraînement de plusieurs réseaux CycleGAN selon l'expérimentation. Dans ces dossiers, on trouve les images générées pendant l'apprentissage à partir des ensembles d'entraînement et de validation, les valeurs de la fonction de coût à chaque epoch et les poids des réseaux.
+:open_file_folder: On met à disposition des lecteurs les fichiers *Classique*, *No_Cycle*, *No_Identity*, *Small_Buffer_Size*, *Ukiyoe* et *Vangogh* sur le ce [drive](https://drive.google.com/drive/folders/17J9JRGj80l0dEkVDvSzyl2qlu4CzGafW?usp=sharing). Ils contiennent les données de l'entraînement de plusieurs réseaux CycleGAN selon l'expérimentation. Pour chaque dossier, on trouve les images générées pendant l'apprentissage à partir des ensembles d'entraînement et de validation, les valeurs de la fonction de coût à chaque epoch et les poids des réseaux. 
